@@ -17,3 +17,9 @@ If you find my work useful, your support is appreciated:
 
 - One-time: https://buy.stripe.com/9B600l2WWdHIg3d5R957W01
 - Annual: https://buy.stripe.com/7sYaEZ7dcfPQ8AL6Vd57W00
+
+## Legal
+
+- [Legal Notice](./legal/tokusho.md)
+- [Privacy Policy](./legal/privacy.md)
+- [Terms](./legal/terms.md)
