@@ -1,0 +1,7 @@
+# Dev ワークスペース側の実体を指す symlink（clone 先では解決できず GitHub Pages の
+# Jekyll ビルドが realpath 解決に失敗して落ちるため、追跡しない。ローカル運用では必要）
+docs/cmflow.md
+docs/verify-queue.template.md
+
+# macOS
+.DS_Store

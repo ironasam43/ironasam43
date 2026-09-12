@@ -1,0 +1,15 @@
+# GitHub Pages（Jekyll）設定
+#
+# 本ファイルを置く前は _config.yml 不在のため GitHub Pages の既定テーマ
+# （jekyll-theme-primer）が暗黙適用されていた。設定ファイルを追加すると
+# その既定が外れて legal ページの見た目が変わりうるため、同一テーマを明示固定する。
+# 現行の描画が primer であることは、公開中の legal/eula.html が
+# `container-lg px-3 my-5 markdown-body` レイアウトで出力されていることで確認済み。
+theme: jekyll-theme-primer
+
+# 公開サイトに載せない開発用ファイル（AI 向け作業ドキュメント・エディタ設定）
+exclude:
+  - docs
+  - CLAUDE.md
+  - .devdeck.json
+  - .DS_Store
