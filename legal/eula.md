@@ -1,6 +1,6 @@
 # End User License Agreement (EULA) for DeeperAI
 
-**Last updated: 2026-04-11**
+**Last updated: 2026-09-15**
 
 ---
 
@@ -39,8 +39,11 @@ The App offers optional in-app purchases, including:
 
 - **Premium** (monthly subscription): Provides expanded usage and AI token allowance.
 - **Unlimited** (one-time purchase): Provides unlimited usage for users with their own Anthropic API key.
+- **Token Pack** (consumable): Adds 500,000 AI tokens to your current plan.
 
 All purchases are processed through Apple's App Store. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. You may manage or cancel subscriptions in your App Store account settings.
+
+Consumable purchases (such as the Token Pack) are consumed upon use and are not restorable.
 
 Prices are subject to change. Refunds are handled in accordance with Apple's refund policy.
 
