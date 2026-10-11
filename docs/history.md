@@ -14,3 +14,6 @@
 ## 2026-06-25
 - `docs/verify-queue.template.md` を Dev/docs から相対 symlink で配布（全PJ完全パリティ・HQ 直接改修）。
 - 本 history.md を git 追跡対象に追加（従来は未追跡だった）。
+
+## 2026-10-11
+- `handgate/index.html`（サポートページ・en/ja bilingual）と `handgate/privacy.html`（プライバシーポリシー・en/ja・発効日 2026-10-11）を新設。文面は HandGate `docs/asc/{en,ja}/support-page.md`・`privacy-policy.md` から写した。書き方・構成は `codescrap/index.html`・`codescrap/privacy.html` に準拠。
